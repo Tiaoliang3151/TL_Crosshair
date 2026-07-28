@@ -1,0 +1,87 @@
+{
+  "configs": [
+    {
+      "name": "中心十字准星",
+      "lines": [
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "length": 220,
+          "angle": 0,
+          "width": 2,
+          "color": "#00ff00",
+          "name": "未命名"
+        },
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "length": 220,
+          "angle": 90,
+          "width": 2,
+          "color": "#00ff00",
+          "name": "未命名"
+        }
+      ]
+    },
+    {
+      "name": "单水平参考线",
+      "lines": [
+        {
+          "x": 0.0,
+          "y": 0.0,
+          "length": 260,
+          "angle": 0,
+          "width": 2,
+          "color": "#ffffff",
+          "name": "未命名"
+        }
+      ]
+    },
+    {
+      "name": "双红点双准星",
+      "lines": [
+        {
+          "x": -8.0,
+          "y": 0.0,
+          "length": 2,
+          "angle": 0.0,
+          "width": 5,
+          "color": "#ff2222",
+          "name": "未命名"
+        },
+        {
+          "x": 8.0,
+          "y": 0.0,
+          "length": 2,
+          "angle": 0.0,
+          "width": 5,
+          "color": "#ff2222",
+          "name": "未命名"
+        }
+      ]
+    },
+    {
+      "name": "VALORENT_01",
+      "lines": [
+        {
+          "x": -76.2,
+          "y": -63.0,
+          "length": 76,
+          "angle": 90.0,
+          "width": 1,
+          "color": "#ff0000",
+          "name": "地图线"
+        },
+        {
+          "x": 0.0,
+          "y": 38.7,
+          "length": 10,
+          "angle": 0.0,
+          "width": 1,
+          "color": "#00ff00",
+          "name": "蝰蛇c下"
+        }
+      ]
+    }
+  ]
+}
