@@ -424,7 +424,7 @@ class ControlPanel(tk.Tk):
             setattr(self, entry_name, entry)
 
         param_frame.columnconfigure(1, weight=1)
-        ttk.Button(param_frame, text="选择颜色", command=self.pick_color).grid(row=row, column=0, columnspan=3, pady=4, sticky="ew")
+        ttk.Button(param_frame, text="选择颜色", command=self.pick_color).grid(row=row + 1, column=0, columnspan=3, pady=4, sticky="ew")
 
         ttk.Button(main, text="强制刷新预览（备用）", command=self._apply_to_line).pack(pady=5, fill=tk.X)
 
